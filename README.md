@@ -2,7 +2,7 @@
 Predicting Customer Conversions in E-Commerce Business
 
 ## Project Documentation
-BI.6.Final.MarkYourCustomers.docx
+<a href="https://github.com/das-analyst/predictchurns/blob/a42bccd7214b4a5593ab95ac3c887e6f374ab2df/BI.6.Final.MarkYourCustomers.docx">BI.6.Final.MarkYourCustomers.docx<a>
 
 ## Project Presentation:
 BI.6.Final.MarkYourCustomers.pptx
